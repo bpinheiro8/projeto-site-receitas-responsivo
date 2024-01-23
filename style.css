@@ -49,8 +49,13 @@ strong {
   line-height: 1.8rem;
 }
 
-ul, ol {
-  padd
+ul {
+  margin-bottom: 2.4rem;
+}
+
+ul,
+ol {
+  padding-left: 2.4rem;
 }
 
 button {
@@ -59,5 +64,5 @@ button {
   border: 0;
   padding: 0.8rem 1.2rem;
   border-radius: 0.6rem;
-  margin-top: 1.8rem;
+  margin-top: 3.2rem;
 }
